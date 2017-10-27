@@ -1,0 +1,31 @@
+<pages>
+<link>
+<title>Home</title>
+<url>http://localhost/buffaloburger/profile.php</url>
+</link>
+<link>
+<title>menu</title>
+<url>http://localhost/buffaloburger/menu.php</url>
+</link>
+<link>
+<title>about us</title>
+<url>http://localhost/buffaloburger/aboutus.php</url>
+</link>
+<link>
+<title>reserve</title>
+<url>http://localhost/buffaloburger/reserve.php</url>
+</link>
+<link>
+<title>history</title>
+<url>http://localhost/buffaloburger/historycontrol.php</url>
+</link>
+<link>
+<title>feedback</title>
+<url>http://localhost/buffaloburger/feedback.php</url>
+</link>
+
+<link>
+<title>contact us</title>
+<url>http://localhost/buffaloburger/contactus.php</url>
+</link>
+</pages>
